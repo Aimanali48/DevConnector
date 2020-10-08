@@ -3,5 +3,5 @@ Create a developer profile/portfolio, share posts and get help from other develo
 clone or download the repo
 #Commands
 npm install
-npm run client install
+cd client && npm install
 npm run dev
